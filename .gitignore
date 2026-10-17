@@ -9,3 +9,5 @@ venv/
 
 # secrets
 .env
+
+.DS_Store

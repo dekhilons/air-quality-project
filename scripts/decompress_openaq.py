@@ -14,7 +14,7 @@ def decompress_single_file(args):
     except Exception as e:
         return False, f"{gz_path} (Error: {e})"
 
-def decompress_downloaded_files_parallel(root_dir="./openaq_raw", max_workers=8):
+def decompress_downloaded_files_parallel(root_dir="data/raw/openaq", max_workers=8):
     if not os.path.exists(root_dir):
         print(f"Directory {root_dir} does not exist.")
         return
