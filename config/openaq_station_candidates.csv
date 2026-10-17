@@ -1,0 +1,136 @@
+location_id,station,locality,latitude,longitude,pollutants,sensor_count,pollutant_set,target_count
+2707,Evreux Centre,ÉVREUX,49.02133999977332,1.1483189995666427,"no, no2, o3, pm10, pm25, so2",6,"{'no', 'so2', 'pm10', 'o3', 'no2', 'pm25'}",4
+3618,Faiencerie Creil,CREIL,49.25955200025786,2.474397000355699,"co, no, no2, o3, pm10, pm25",6,"{'no', 'co', 'pm10', 'o3', 'no2', 'pm25'}",4
+3943,NET-FR069A,ATMO NORMANDIE,49.442460000000004,1.093694,"no, no2, o3, pm10, pm25, so2",6,"{'no', 'so2', 'pm10', 'o3', 'no2', 'pm25'}",4
+4084,VITRY-SUR-SEINE,VITRY-SUR-SEINE,48.775898000042204,2.37578800006495,"no, no2, o3, pm10, pm25, so2",6,"{'no', 'so2', 'pm10', 'o3', 'no2', 'pm25'}",4
+4112,Zone Rurale SE,FONTAINEBLEAU,48.354700000193844,2.6453000000409044,"no, no2, o3, pm10, pm25, so2",6,"{'no', 'so2', 'pm10', 'o3', 'no2', 'pm25'}",4
+4128,NET-FR069A,ATMO NORMANDIE,49.40051999999999,1.098825,"no, no2, o3, pm10, pm25, so2",6,"{'no', 'so2', 'pm10', 'o3', 'no2', 'pm25'}",4
+2162591,PARIS 1er Les Halles,PARIS 1ER ARRONDISSEMENT,48.86211999987271,2.344615999768577,"co, no, no2, o3, pm10, pm25",6,"{'no', 'co', 'pm10', 'o3', 'no2', 'pm25'}",4
+2162687,Rouen Justice,ROUEN,49.44235600018479,1.0937889998627024,"no, no2, o3, pm10, pm25, so2",6,"{'no', 'so2', 'pm10', 'o3', 'no2', 'pm25'}",4
+2708,Alençon Météo-France,CERISÉ,48.445553000017455,0.11083299979257102,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+3608,Lisieux,LISIEUX,49.147223999955635,0.22722199966736098,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+3690,Caen Chemin-Vert,CAEN,49.19222000003276,-0.3911110003265554,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+4006,FR34046,Eure-et-Loir,48.7314125600919,1.36388514642015,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+4039,PARIS 18eme,PARIS 18E ARRONDISSEMENT,48.891665999897555,2.346666999987613,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+4146,PARIS Centre,,48.85899751049642,2.350998896374882,"co, no2, o3, pm10, pm25",5,"{'co', 'pm10', 'o3', 'no2', 'pm25'}",4
+5681,FR04143,,48.8594439994682,2.351111,"co, no2, o3, pm10, pm25",5,"{'co', 'pm10', 'o3', 'no2', 'pm25'}",4
+2162638,Dreux Centre,DREUX,48.72969400021079,1.3584720000276689,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+2162640,Montargis Les Cites,MONTARGIS,48.001449999942366,2.7261799999029233,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+2162686,Centre Hospitalier,SOTTEVILLE-LÈS-ROUEN,49.40050000018459,1.0990419999962184,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+2162759,Neuilly-Saint-Front,NEUILLY-SAINT-FRONT,49.174929999836365,3.2608189995595422,"no, no2, o3, pm10, pm25",5,"{'no', 'pm10', 'o3', 'no2', 'pm25'}",4
+4229274,Maison Parc Brotonne,NOTRE-DAME-DE-BLIQUETUIT,49.49841699983738,0.758696999942649,"no2, o3, pm10, pm25, so2",5,"{'so2', 'pm10', 'o3', 'no2', 'pm25'}",4
+4152,NDGravenchon Pasteur,PORT-JÉRÔME-SUR-SEINE,49.49333199980267,0.5718530002820182,"co, no, no2, o3, pm10, so2",6,"{'no', 'co', 'so2', 'pm10', 'o3', 'no2'}",3
+4063,Auto A1 -Saint-Denis,SAINT-DENIS,48.92527799982875,2.356666999916352,"co, no, no2, pm10, pm25",5,"{'no', 'co', 'pm10', 'no2', 'pm25'}",3
+4164,Maison Parc Brotonne,NOTRE-DAME-DE-BLIQUETUIT,49.498295000227166,0.7588330003850884,"no, no2, o3, pm25, so2",5,"{'no', 'so2', 'o3', 'no2', 'pm25'}",3
+2162684,Rouen Proxi Quai de Paris,ROUEN,49.43669999989953,1.098837999781717,"co, no, no2, pm10, pm25",5,"{'no', 'co', 'pm10', 'no2', 'pm25'}",3
+2711,Rouen Le Conquerant,,49.44144474872934,1.0826585635736885,"co, no2, pm10, pm25",4,"{'co', 'pm10', 'pm25', 'no2'}",3
+3533,Rempart Perrier,ÉPERNAY,49.04609999996159,3.9559109996091464,"no, no2, pm10, pm25",4,"{'no', 'pm10', 'pm25', 'no2'}",3
+3599,IFS Caen sud,IFS,49.15167000014074,-0.35277799979276353,"no, no2, o3, pm10",4,"{'no', 'pm10', 'o3', 'no2'}",3
+3666,Trafic Beauvais 1,BEAUVAIS,49.435932000081316,2.084291999959632,"no, no2, pm10, pm25",4,"{'no', 'pm10', 'pm25', 'no2'}",3
+3699,FR26016,Yonne,48.2005841475738,3.277224836372,"no, no2, o3, pm10",4,"{'no', 'pm10', 'o3', 'no2'}",3
+4041,Bld peripherique Est,PARIS 12E ARRONDISSEMENT,48.83861500018727,2.4127809998590957,"no, no2, pm10, pm25",4,"{'no', 'pm10', 'pm25', 'no2'}",3
+4043,RN6-MELUN,MELUN,48.52805700012826,2.6536110001488558,"no, no2, pm10, pm25",4,"{'no', 'pm10', 'pm25', 'no2'}",3
+4066,BOBIGNY,BOBIGNY,48.9025040001429,2.452500000264972,"no, no2, pm10, pm25",4,"{'no', 'pm10', 'pm25', 'no2'}",3
+4070,Boulevard Haussmann,PARIS 9E ARRONDISSEMENT,48.87333300000442,2.3302780002985286,"no, no2, pm10, pm25",4,"{'no', 'pm10', 'pm25', 'no2'}",3
+4075,LA DEFENSE,PUTEAUX,48.8913880002415,2.2405559998759084,"no, no2, pm10, pm25",4,"{'no', 'pm10', 'pm25', 'no2'}",3
+4088,GENNEVILLIERS,GENNEVILLIERS,48.92971999976044,2.2947220004300926,"no, no2, pm10, pm25",4,"{'no', 'pm10', 'pm25', 'no2'}",3
+4121,LOGNES,LOGNES,48.840280000208296,2.6352780003708567,"no, no2, o3, pm10",4,"{'no', 'pm10', 'o3', 'no2'}",3
+4162,TREMBLAY-EN-FRANCE,TREMBLAY-EN-FRANCE,48.95554999995407,2.5752779999001074,"no, no2, o3, pm10",4,"{'no', 'pm10', 'o3', 'no2'}",3
+2162778,Sens,SENS,48.20043599997381,3.2773000002084496,"no, no2, o3, pm10",4,"{'no', 'pm10', 'o3', 'no2'}",3
+3605,La Coulonche MERA,LA COULONCHE,48.645000000143845,-0.4583330002357768,"o3, pm10, pm25",3,"{'pm10', 'pm25', 'o3'}",3
+3786,FR18019,,49.2763912615378,2.48217089416201,"no2, o3, pm10",3,"{'pm10', 'o3', 'no2'}",3
+4011,Fulbert,CHARTRES,48.44441600025611,1.5101389999365489,"o3, pm10, pm25",3,"{'pm10', 'pm25', 'o3'}",3
+4015,Luc�,,48.43928587629702,1.4687724389939412,"no2, pm10, pm25",3,"{'pm10', 'pm25', 'no2'}",3
+4034,FR21060,,49.117192768241,-0.169665706026938,"no2, pm10, pm25",3,"{'pm10', 'pm25', 'no2'}",3
+4092,Zone rurale Sud,BOIS-HERPIN,48.3641660000587,2.2369439998826035,"o3, pm10, pm25",3,"{'pm10', 'pm25', 'o3'}",3
+4102,RAMBOUILLET,RAMBOUILLET,48.63372999989348,1.8305290003384824,"o3, pm10, pm25",3,"{'pm10', 'pm25', 'o3'}",3
+4109,Zone Rurale Nord,SAINT-MARTIN-DU-TERTRE,49.100276999827166,2.343889000395661,"o3, pm10, pm25",3,"{'pm10', 'pm25', 'o3'}",3
+4163,Base loisirs Poses,VAL-DE-REUIL,49.30487000028143,1.214367000214201,"o3, pm10, pm25",3,"{'pm10', 'pm25', 'o3'}",3
+5688,FR34042,,48.437968999467195,1.470575,"no2, pm10, pm25",3,"{'pm10', 'pm25', 'no2'}",3
+2995860,GENNEVILLIERS,GENNEVILLIERS,48.930319999881185,2.294349999986101,"no2, pm10, pm25",3,"{'pm10', 'pm25', 'no2'}",3
+4160643,Petit Quevilly,LE PETIT-QUEVILLY,49.42814999975319,1.058024999581805,"no2, pm10, pm25",3,"{'pm10', 'pm25', 'no2'}",3
+2638232,Le Cat Etoiles,,48.602,1.6924,"pm1, pm10, pm25, relativehumidity, temperature, um003",6,"{'temperature', 'um003', 'relativehumidity', 'pm10', 'pm1', 'pm25'}",2
+3086825,Palaiseau,,48.71928623965607,2.243021311896426,"pm1, pm10, pm25, relativehumidity, temperature, um003",6,"{'temperature', 'um003', 'relativehumidity', 'pm10', 'pm1', 'pm25'}",2
+3273392,Bois-le-Roi,,48.462387,2.701914,"pm1, pm10, pm25, relativehumidity, temperature, um003",6,"{'temperature', 'um003', 'relativehumidity', 'pm10', 'pm1', 'pm25'}",2
+3294674,Montesson,,48.9061126,2.1188925,"pm1, pm10, pm25, relativehumidity, temperature, um003",6,"{'temperature', 'um003', 'relativehumidity', 'pm10', 'pm1', 'pm25'}",2
+3999,Saint-Remy,SAINT-RÉMY-SUR-AVRE,48.760886999768296,1.2336389999755368,"co, no, no2, pm10",4,"{'no', 'co', 'pm10', 'no2'}",2
+4007,Oysonville,OYSONVILLE,48.39114000007974,1.9556109999126432,"no, no2, o3, so2",4,"{'so2', 'no', 'o3', 'no2'}",2
+4067,Place Victor Basch,PARIS 14E ARRONDISSEMENT,48.82777799979369,2.327499999808262,"co, no, no2, pm10",4,"{'no', 'co', 'pm10', 'no2'}",2
+4153,NEUILLY-SUR-SEINE,NEUILLY-SUR-SEINE,48.88139000002848,2.2780559998332586,"no, no2, o3, so2",4,"{'so2', 'no', 'o3', 'no2'}",2
+2681,Place de l'Opéra,PARIS 2E ARRONDISSEMENT,48.8702740002815,2.332500000221789,"no, no2, pm10",3,"{'no', 'pm10', 'no2'}",2
+3496,FR05054,,49.4810859994699,0.165289,"no2, pm10, so2",3,"{'so2', 'pm10', 'no2'}",2
+3502,SMVO Rieux,,49.29789536067849,2.5174477353693883,"no2, pm10, so2",3,"{'so2', 'pm10', 'no2'}",2
+3603,FR21016,,49.1752491940393,-0.35361103181024,"co, no2, pm10",3,"{'co', 'pm10', 'no2'}",2
+4053,RN2-PANTIN,PANTIN,48.90221999982184,2.390832999714743,"no, no2, pm10",3,"{'no', 'pm10', 'no2'}",2
+4058,GONESSE,GONESSE,48.99083000013072,2.4447220002594934,"no, no2, pm25",3,"{'no', 'pm25', 'no2'}",2
+4060,PARIS Stade Lenglen,PARIS 15E ARRONDISSEMENT,48.830386999745706,2.2698889996653513,"no, no2, pm10",3,"{'no', 'pm10', 'no2'}",2
+4069,Av Champs Elysees,PARIS 8E ARRONDISSEMENT,48.86888999991671,2.3119439997973035,"no, no2, pm25",3,"{'no', 'pm25', 'no2'}",2
+4120,MONTGERON,MONTGERON,48.706699999881124,2.4572000002045304,"no, no2, o3",3,"{'no', 'o3', 'no2'}",2
+4123,CHAMPIGNY-SUR-MARNE,CHAMPIGNY-SUR-MARNE,48.81638700018852,2.517500000250933,"no, no2, o3",3,"{'no', 'o3', 'no2'}",2
+4124,PARIS 13eme,PARIS 13E ARRONDISSEMENT,48.82861000023597,2.3602780000847456,"no, no2, o3",3,"{'no', 'o3', 'no2'}",2
+4127,MELUN,MELUN,48.5413900000572,2.661389000154335,"no, no2, o3",3,"{'no', 'o3', 'no2'}",2
+4138,RN20 - MONTLHERY,MONTLHÉRY,48.6409299998147,2.2687200004265597,"no, no2, pm25",3,"{'no', 'pm25', 'no2'}",2
+4142,MANTES-LA-JOLIE,MANTES-LA-JOLIE,48.99639999998737,1.7033000002858179,"no, no2, o3",3,"{'no', 'o3', 'no2'}",2
+4154,VERSAILLES,VERSAILLES,48.7991680000162,2.1305559997614636,"no, no2, o3",3,"{'no', 'o3', 'no2'}",2
+4156,VILLEMOMBLE,VILLEMOMBLE,48.881946999811,2.507221999589533,"no, no2, o3",3,"{'no', 'o3', 'no2'}",2
+4159,FR25048,,49.42806687626571,1.05777523020358,"no2, pm10, so2",3,"{'so2', 'pm10', 'no2'}",2
+4165,Zone Rurale SO,SONCHAMP,48.5819439998197,1.8833330004117133,"no, no2, o3",3,"{'no', 'o3', 'no2'}",2
+2162639,Chartres_trafic,CHARTRES,48.449157999734346,1.4924689999573642,"no, no2, pm25",3,"{'no', 'pm25', 'no2'}",2
+2162641,Montargis_trafic,MONTARGIS,48.00693499977585,2.7401109996671957,"no, no2, pm25",3,"{'no', 'pm25', 'no2'}",2
+2162685,Petit-Quevilly Sud 3,LE PETIT-QUEVILLY,49.43416200004212,1.0670526998779397,"no, no2, pm10",3,"{'no', 'pm10', 'no2'}",2
+2162688,Honfleur Sce Tech.,HONFLEUR,49.41510800027326,0.2436999999432196,"o3, pm10, so2",3,"{'pm10', 'o3', 'so2'}",2
+2493596,NET-FR061A,LIG'AIR,48.006935000000006,2.74001,"no, no2, pm25",3,"{'no', 'pm25', 'no2'}",2
+2673,Evreux  Boulevard de Normandie,,49.020202317088426,1.1387134373027465,"no2, pm25",2,"{'pm25', 'no2'}",2
+4068,FR04173,Seine-et-Marne,48.8055412818308,3.08444637639995,"pm10, pm25",2,"{'pm10', 'pm25'}",2
+4071,CERGY-PONTOISE,CERGY,49.046390000083385,2.0430560001604183,"o3, pm10",2,"{'pm10', 'o3'}",2
+4100,Zone Rurale NO,FRÉMAINVILLE,49.063087000119914,1.8663809995846123,"o3, pm10",2,"{'pm10', 'o3'}",2
+5686,FR34047,,48.7608889994679,1.233781,"no2, pm10",2,"{'pm10', 'no2'}",2
+2162590,RD934 Coulommiers,COULOMMIERS,48.80589999990971,3.084158000125755,"pm10, pm25",2,"{'pm10', 'pm25'}",2
+2162692,Caen Montalivet,MONDEVILLE,49.179831999866636,-0.3297500000980784,"no2, pm10",2,"{'pm10', 'no2'}",2
+2995837,Av Champs Elysees,PARIS 8E ARRONDISSEMENT,48.86877000026755,2.3112309997697755,"no2, pm25",2,"{'pm25', 'no2'}",2
+6488474,Caen Fleury,FLEURY-SUR-ORNE,49.155619999925676,-0.3696250001395646,"no2, pm10",2,"{'pm10', 'no2'}",2
+4313237,Pont de Grenelle,,48.85017,2.27918,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+4346675,Condé-sainte-libiaire,,48.895673,2.839499,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+5604146,Conde sur Vesgre,,48.741076,1.656739,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6091141,Antony,,48.749770294002616,2.301734033627039,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6125593,Jaignes,,48.9922,3.056,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6169727,"80 Boulevard Garibaldi, Paris 75015 France",,48.84558,2.30883,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6198638,IFPEN RUEIL 1,,48.745212,2.227754,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6216239,IFPEN Rueil 2,,48.88538539460946,2.3210560856175313,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6308656,Avenue Parmentier,,48.8638458,2.37565,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6323386,Palaiseau France,,48.717056,2.232611,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6347364,St Valérien ,,48.1761357,3.0925511,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6354360,Fauvette ave,,48.872386,2.504768,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6485916,Résidence de Tourvoie,,48.7531,2.3136,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+6499690,6 Boulevard Ornano Paris 75018,,48.89199,2.34933,"pm1, pm25, relativehumidity, temperature, um003",5,"{'um003', 'temperature', 'relativehumidity', 'pm1', 'pm25'}",1
+4086,AUBERVILLIERS,AUBERVILLIERS,48.903899999756625,2.384700000047436,"co, no, no2, so2",4,"{'so2', 'no', 'co', 'no2'}",1
+4140,Le Havre Massillon,LE HAVRE,49.49830000021717,0.14270600042090653,"no, no2, so2",3,"{'so2', 'no', 'no2'}",1
+4079,EVRY,ÉVRY-COURCOURONNES,48.62721999986759,2.429167000073446,"no, no2",2,"{'no', 'no2'}",1
+4082,ARGENTEUIL,ARGENTEUIL,48.95138999983726,2.223610999619816,"no, no2",2,"{'no', 'no2'}",1
+4093,Quai des Celestins,PARIS 4E ARRONDISSEMENT,48.852779999795274,2.3605559999190917,"no, no2",2,"{'no', 'no2'}",1
+4094,PARIS 12eme,PARIS 12E ARRONDISSEMENT,48.83722300009815,2.39389999991001,"no, no2",2,"{'no', 'no2'}",1
+4096,FR04135,,48.8379529715682,2.40805988322215,"no, no2",2,"{'no', 'no2'}",1
+4099,SAINT-DENIS,SAINT-DENIS,48.93722000025856,2.3616670003298794,"no, no2",2,"{'no', 'no2'}",1
+4111,PARIS 7eme,PARIS 7E ARRONDISSEMENT,48.85719999977259,2.2932999996746815,"no, no2",2,"{'no', 'no2'}",1
+4116,Rue Bonaparte,PARIS 6E ARRONDISSEMENT,48.85638799991912,2.3352779998137407,"no, no2",2,"{'no', 'no2'}",1
+2674,GARCHES,,48.846407318287696,2.1894458756788273,o3,1,{'o3'},1
+2675,CACHAN,,48.79944696356195,2.330553240508322,o3,1,{'o3'},1
+3461,Gd Couronne Mairie,GRAND-COURONNE,49.358214999834985,1.0078530004089747,pm10,1,{'pm10'},1
+3916,Zone Rurale Nord-Est,MONTGÉ-EN-GOËLE,49.02805700016036,2.7502780000005136,o3,1,{'o3'},1
+4077,NOGENT-SUR-MARNE,NOGENT-SUR-MARNE,48.8405569997725,2.484444000140104,pm10,1,{'pm10'},1
+4114,Touques,TOUQUES,49.347999999977596,0.10925299975172797,o3,1,{'o3'},1
+4115,FR04146,,48.8174999994681,2.395,no2,1,{'no2'},1
+4126,Mesnil Esnard,LE MESNIL-ESNARD,49.40619000028539,1.1551500000911794,o3,1,{'o3'},1
+4129,LES ULIS,LES ULIS,48.67944300023046,2.1655559999612075,o3,1,{'o3'},1
+4167,Zone Rurale Est,BEAUTHEIL-SAINTS,48.761665000079475,3.0583329996742283,o3,1,{'o3'},1
+5687,FR34043,,48.3904559994671,1.955953,o3,1,{'o3'},1
+5690,FR34041,,48.4448359994672,1.509281,o3,1,{'o3'},1
+234575,Brissac fixed,,48.848938645,2.36499019,pm25,1,{'pm25'},1
+234577,Brissac fixed,,48.848945705,2.364986166,pm25,1,{'pm25'},1
+587143,test 1 balcon,,48.825154892,2.341694534,pm25,1,{'pm25'},1
+606484,Test wifi,,48.825111629,2.341664024,pm25,1,{'pm25'},1
+2162691,Ouistreham,OUISTREHAM,49.28944400028219,-0.2577780000205851,o3,1,{'o3'},1
+2422682,test,,48.780116143,2.307183892,pm25,1,{'pm25'},1
+4234128,Ouistreham Baie de l Orne,OUISTREHAM,49.278323999907144,-0.24707400028514975,o3,1,{'o3'},1
+6263493,barbecue,,48.726192564,1.915209889,pm25,1,{'pm25'},1
+6312904,dehors fenêtre,,48.726225076,1.915237047,pm25,1,{'pm25'},1
