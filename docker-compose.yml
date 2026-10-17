@@ -1,0 +1,9 @@
+services:
+  spark:
+    image: apache/spark-py:v3.4.0
+    working_dir: /app
+    environment:
+      - HOME=/tmp
+    volumes:
+      - .:/app
+
