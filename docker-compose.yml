@@ -7,3 +7,12 @@ services:
     volumes:
       - .:/app
 
+  jupyter:
+    image: jupyter/pyspark-notebook:latest
+    working_dir: /home/jovyan/work
+    volumes:
+      - .:/home/jovyan/work
+    ports:
+      - "8888:8888"
+    command: start-notebook.sh --NotebookApp.token=''
+
