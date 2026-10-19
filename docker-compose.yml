@@ -1,0 +1,19 @@
+services:
+  spark:
+    image: apache/spark-py:v3.4.0
+    working_dir: /app
+    environment:
+      - HOME=/tmp
+    volumes:
+      - .:/app
+
+  jupyter:
+    image: jupyter/pyspark-notebook:latest
+    working_dir: /home/jovyan/work
+    volumes:
+      - .:/home/jovyan/work
+    ports:
+      - "8888:8888"
+    # contextily (used by src/cleaning.ipynb's station map) isn't in the base image, so install it before starting the notebook server.
+    command: bash -c "pip install --quiet contextily && start-notebook.sh --NotebookApp.token=''"
+
